@@ -1,2 +1,5 @@
 info:
-  active:dev
+  profile: dev
+#业务参数
+words: this is yews
+name: yuanqiang
